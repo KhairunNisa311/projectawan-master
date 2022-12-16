@@ -7,10 +7,10 @@
            <div class="row">
                <div class="col-md-12">
                    <div class="caption">
-                       <h2>Selamat Datang Di Toko VegeFruit</h2>
+                       <h2>Selamat Datang Di BajuKu</h2>
                        <div class="line-dec"></div>
-                       <p>VegeFruit menyediakan berbagai macam buah dan sayur
-                           <br><br>Silahkan kunjungi social media <a rel="nofollow" href="https://www.facebook.com/tooplate/">VegeFruit</a> untuk mendapatkan info terbaru.
+                       <p>BajuKu menyediakan berbagai macam Baju 
+                           <br><br>Silahkan kunjungi social media <a rel="nofollow" href="https://www.facebook.com/tooplate/">BajuKu</a> untuk mendapatkan info terbaru.
                        </p>
                        @auth
                             <div class="main-button">

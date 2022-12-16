@@ -34,11 +34,11 @@ class DatabaseSeeder extends Seeder
         ]);
 
         Category::create([
-            'nama_category' => 'Buah',
+            'nama_category' => 'Baju',
         ]);
 
         Category::create([
-            'nama_category' => 'Sayur',
+            'nama_category' => 'Kaos',
         ]);
     }
 }

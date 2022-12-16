@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
 
-    <title>VegeFruit</title>
+    <title>BajuKu</title>
 
     <!-- Bootstrap core CSS -->
     <!-- CSS only -->
@@ -38,7 +38,7 @@
     <!--Tooplate 2114 Pixiehttps://www.tooplate.com/view/2114-pixie-->
     <style>
         body {
-            background-image: url("assets/img/buahbuahan.jpg");
+            background-image: url("assets/img/toko.jpg");
             background-size: 100%;
             background-repeat: no-repeat;
             background-attachment: fixed;
